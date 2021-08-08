@@ -1,0 +1,5 @@
+C:
+cd Users
+robocopy /mir /xj /copyall /R:0 - D:\User
+rmdir /S /Q -
+mklink /J - D:\User

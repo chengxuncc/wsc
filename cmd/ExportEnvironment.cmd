@@ -1,0 +1,1 @@
+regedit /e "..\reg\User.Env.reg" "HKEY_CURRENT_USER\Environment"

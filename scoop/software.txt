@@ -1,0 +1,45 @@
+CyberChef
+dirsearch
+gost
+010Editor
+010Editor-keygen
+A73 Piano Station
+BeyondCompare
+CCleaner
+cpuz
+disk2vhd
+DiskGenius
+Dism++
+WinHTTrack
+IconWorkshop
+
+ILSpy
+jadx
+MobaXterm
+天若OCR文字识别
+OTool
+Proxmark3_EASY_GUI
+EasyPythonDecompiler
+rufus
+Tor Browser
+TreeSize
+uTorrent
+windows密码恢复工具包
+BypassUAC
+ScreenToGif
+ssn
+vncserver-keygen
+右键菜单管理
+窗口置顶
+
+Android Studio
+Ditto
+IDA Pro
+Microsoft VS Code
+FileLocator Pro
+Pichon
+.NET Reflector
+SSTap-beta
+
+need to install:
+VS Code

@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jar]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jar]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jar\OpenWithList]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jar\OpenWithProgids]
+"jarfile"=hex(0):
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jar\UserChoice]
+"ProgId"="jarfile"
+"Hash"="J2GTnvuKXzI="
+
+[HKEY_CLASSES_ROOT\.jar]
+@="jarfile"
+
+[HKEY_CLASSES_ROOT\jarfile]
+[HKEY_CLASSES_ROOT\jarfile\Shell]
+[HKEY_CLASSES_ROOT\jarfile\Shell\Open]
+[HKEY_CLASSES_ROOT\jarfile\Shell\Open\Command]
+@=hex(2):22,00,44,00,3a,00,5c,00,53,00,63,00,6f,00,6f,00,70,00,5c,00,61,00,70,\
+  00,70,00,73,00,5c,00,61,00,64,00,6f,00,70,00,74,00,38,00,2d,00,68,00,6f,00,\
+  74,00,73,00,70,00,6f,00,74,00,5c,00,63,00,75,00,72,00,72,00,65,00,6e,00,74,\
+  00,5c,00,62,00,69,00,6e,00,5c,00,6a,00,61,00,76,00,61,00,77,00,2e,00,65,00,\
+  78,00,65,00,22,00,20,00,2d,00,6a,00,61,00,72,00,20,00,22,00,25,00,31,00,22,\
+  00,20,00,25,00,2a,00,00,00
